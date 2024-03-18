@@ -12,6 +12,10 @@
 *.cb2
 .*.lb
 *.gz
+*.fdb_latexmk
+*.pyg
+*.bbl
+*.blg
 
 ## Intermediate documents:
 *.dvi
